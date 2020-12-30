@@ -1,0 +1,31 @@
+#nav-bar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(109, 107, 107);
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+ul li {
+  padding: 1rem;
+  font-weight: bold;
+}
+
+#logo {
+  font-weight: bold;
+}
+
+#search-bar {
+  width: 40%;
+  font-weight: bold;
+  outline: none;
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+}

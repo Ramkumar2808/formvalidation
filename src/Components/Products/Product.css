@@ -1,0 +1,11 @@
+#product,
+#pwd,
+#category {
+  padding: 0.5rem;
+  font-size: 1rem;
+  color: white;
+  background-color: rgba(85, 97, 97, 0.5);
+  border: none;
+  outline: none;
+  width: 100%;
+}
